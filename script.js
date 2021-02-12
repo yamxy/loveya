@@ -30,5 +30,5 @@ function generate(){
     document.getElementById("author").innerHTML = author;
   }
   function resetText() {
-   document.getElementById("welcome").style.display == "hidden";
+   document.getElementById("welcome").style.display = "hidden";
 }
