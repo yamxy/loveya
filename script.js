@@ -29,5 +29,5 @@ function generate(){
     document.getElementById("quote").innerHTML = quote;
     document.getElementById("author").innerHTML = author;
 
-   document.getElementById("welcome").style.display = "none";
+   document.getElementById("welcome").style.display = 'none';
 }
