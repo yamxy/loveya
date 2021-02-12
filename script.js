@@ -28,5 +28,7 @@ function generate(){
   
     document.getElementById("quote").innerHTML = quote;
     document.getElementById("author").innerHTML = author;
-  
   }
+  function resetText() {
+   document.getElementById("welcome").style.display = "none";
+}
