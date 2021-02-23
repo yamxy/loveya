@@ -2,7 +2,7 @@ function generate(){
     var quotes = {
       "- reason numba juan": 'Your tiny little baby face :)',
       "- reason #2": 'hairy legs >:)',
-      "- tree:" 'you make me feel like im actually the prettiest person in the world',
+      "- tree": 'you make me feel like im actually the prettiest person in the world',
       "- four ply four ply when i cry": 'you deal with me without even knowing youre dealing with an annoying mess',
       "- ayy lend me a fivaa": 'u funny whiteboy',
       "- devil number (6)": 'i can tell you anything and actually everything..cause i talk a lot',
